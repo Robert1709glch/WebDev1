@@ -1,0 +1,36 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: #efefef; */
+}
+
+header {
+    background-color: #555555;
+    color: white;
+    padding: 3rem 2rem;
+}
+
+section ul {
+    list-style-type: disc;
+
+}
+
+a:hover {
+    color: rgb(3, 150, 191);
+}
+
+a:active {
+    color: rgb(223, 56, 56);
+}
+
+footer {
+    background-color: #313030;
+    padding: 3rem;
+    color: white;
+}
